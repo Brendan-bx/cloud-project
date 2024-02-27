@@ -4,7 +4,7 @@
 
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container">
-            <span class="text-muted">Blog de Brendan Boiseaux </span>
+            <span class="text-muted">Blog de CLOUD </span>
         </div>
     </footer>
 
