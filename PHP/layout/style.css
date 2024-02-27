@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+header ul li {
+    display: inline;
+}
+
+header ul {
+    margin-left: 50px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: black
+}
+
+header ul li:last-child {
+    margin-left: 400px;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px black solid;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+
+footer p {
+    opacity: 0.5;
+}
