@@ -17,7 +17,7 @@
             <li><a href="creation.php">Création d'article</a></li>
             <li><a href="display_category.php">Catégorie</a></li>
             <li><a href="recherche.php">Recherche</a></li>
-            <li><a href="inscription.php">Inscription</a>
+            <li><a href="inscription.php">Inscription</a></li>
             <li> <a href="connexion.php">Connexion</a></li>
             </li>
         </ul>
