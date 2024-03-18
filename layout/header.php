@@ -18,7 +18,7 @@
             <li><a href="display_category.php">Catégorie</a></li>
             <li><a href="recherche.php">Recherche</a></li>
             <li><a href="inscription.php">Inscription</a>
-                <a href="connexion.php">Connexion</a>
+            <li> <a href="connexion.php">Connexion</a>
             </li>
         </ul>
     </header>
