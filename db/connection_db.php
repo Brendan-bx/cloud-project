@@ -2,7 +2,7 @@
 
 $host = 'miou.mysql.database.azure.com';
 $username = 'Miou@miou';
-$password = 'V1veadmin';
+$password = '';
 $db_name = 'miou.database.windows.net';
 
 //Initializes MySQLi
