@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <?php require("layout/header.php") ?>
     <?php require("fonctions/f_connexion.php") ?>
     <form method="get" action="">
         <label for="email">Adresse email :</label>
@@ -19,6 +20,8 @@
 
         <input type="submit" name="submit" value="S'inscrire">
     </form>
+    <?php require("layout/footer.php") ?>
+
 
 </body>
 
